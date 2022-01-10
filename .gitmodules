@@ -1,0 +1,3 @@
+[submodule "CanvasExperiments"]
+	path = CanvasExperiments
+	url = https://github.com/igoichuk/CanvasExperiments.git
